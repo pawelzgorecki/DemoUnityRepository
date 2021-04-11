@@ -1,0 +1,9 @@
+Library/
+obj/
+Logs/
+Packages/
+.vs/
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+GitExampleProject.sln
+.vsconfig
